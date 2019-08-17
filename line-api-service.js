@@ -1,8 +1,8 @@
 /**
- * @author Pamontep Panya
- * @email pamontep.p@gmail.com
- * @create date 2018-06-03 08:55:20
- * @modify date 2018-06-03 08:55:20
+ * @author Werachon Phunta
+ * @email werachonp@gmail.com
+ * @create date 2019-08-17 15:02:02
+ * @modify date 2019-08-17 15:02:02
  * @desc A service for reply message via Line Messaging API.
 */
 const request = require('request');

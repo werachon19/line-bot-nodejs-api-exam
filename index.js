@@ -1,15 +1,15 @@
 /**
- * @author Pamontep Panya
- * @email pamontep.p@gmail.com
- * @create date 2018-06-03 03:45:02
- * @modify date 2018-06-03 03:45:02
+ * @author Werachon Phunta
+ * @email werachonp@gmail.com
+ * @create date 2019-08-17 15:02:02
+ * @modify date 2019-08-17 15:02:02
  * @desc A sample project of Node.js and Line API
 */
 const server = require('express');
 const PORT = process.env.PORT || 9999;
 const request = require('request');
 const bodyParser = require('body-parser');
-const lineMessaging = require('./src/classes/line-messaging');
+const lineMessaging = require('line-messaging');
 
 server()
     .use(bodyParser.json())

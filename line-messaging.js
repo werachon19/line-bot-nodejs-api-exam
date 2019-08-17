@@ -1,8 +1,8 @@
 /**
- * @author Pamontep Panya
- * @email pamontep.p@gmail.com
- * @create date 2018-06-03 08:58:19
- * @modify date 2018-06-03 08:58:19
+ * @author Werachon Phunta
+ * @email werachonp@gmail.com
+ * @create date 2019-08-17 15:02:02
+ * @modify date 2019-08-17 15:02:02
  * @desc A class that using for handle message that got from Line Chat.
 */
 const lineApiService = require('../services/line-api-service');
